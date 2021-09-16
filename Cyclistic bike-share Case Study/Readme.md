@@ -34,4 +34,4 @@ The project uses the Google process for data analysis, divided into six steps:
 
 ### 4. Project Summary
 
-For all the steps of analysis and results, click [here](cyclistics_Summary.html)
+For all the steps of analysis and results, click [here](https://github.com/robetalamin/Data-Analytics/raw/main/Cyclistic%20bike-share%20Case%20Study/cyclistics_summary.html)

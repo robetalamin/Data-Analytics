@@ -14,7 +14,7 @@ The main sponsor for this analysis is the department of Marketing, which will be
 
 ### 2. Data Frame
 
-For this task, the data frame is from Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement), available in [Divvy Trip](https://divvy-tripdata.s3.amazonaws.com/index.html).
+For this task, I use bike ride dataset from Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement), available in [Divvy Trip](https://divvy-tripdata.s3.amazonaws.com/index.html) and Chicago temperature from [Climate-Data.ORG](https://en.climate-data.org/north-america/united-states-of-america/illinois/chicago-1574). 
 
 ### 3. Analysis Steps
 

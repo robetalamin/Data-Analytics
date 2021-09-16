@@ -34,4 +34,4 @@ The project uses the Google process for data analysis, divided into six steps:
 
 ### 4. Project Summary
 
-For all the steps of analysis and results, click [here](cyclistics_Summary.md)
+For all the steps of analysis and results, click [here](cyclistics_Summary.html)
